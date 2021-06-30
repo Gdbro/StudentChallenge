@@ -25,7 +25,7 @@ A place must have the following fields:
 - updated at
 
 # Fullstack Developer Challenge
-- 2 very simple screens for a very simple CRUD application using VueJS & MongoD
+- 2 very simple screens for a very simple CRUD application using VueJS & MongoDB
 - It should not be difficult to reproduce and improve
 
 ## Screenshot
@@ -54,7 +54,6 @@ List All Items
 - Project structure, architecture and organization
 - Programming good practices
 - VCS practices
-  **Evaluation** notes:
 
 > **Note:** We're interested on the structure and completeness of the API, so as how it is tested.
 
