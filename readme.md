@@ -1,4 +1,5 @@
-#Student Coding Challenge
+# Student Coding Challenge
+
 There are two simple challenges to test your skills, and your curiosity on different subjects. Fell free to choose subject you prefer.
 ## Table of contents
 1. [Backend Developer Challenge](#Backend-Developer-Challenge)
